@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "32886159207",
+    "project_id": "fir-ejemplo-68425",
+    "storage_bucket": "fir-ejemplo-68425.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32886159207:android:ad7523c1cede368593a1c2",
+        "android_client_info": {
+          "package_name": "albertomanuel.jaen.gimenez.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32886159207-a7fvdpvvkhq6rmsidgmk7e714mebr17l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_I5i_0XlGlYYYZobxAaYlDA8B5kR3eQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32886159207-a7fvdpvvkhq6rmsidgmk7e714mebr17l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
